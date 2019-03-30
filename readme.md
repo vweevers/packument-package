@@ -6,7 +6,7 @@
 [![node](https://img.shields.io/node/v/packument-package.svg?style=flat-square)](https://www.npmjs.org/package/packument-package)
 [![Travis build status](https://img.shields.io/travis/vweevers/packument-package.svg?style=flat-square&label=travis)](http://travis-ci.org/vweevers/packument-package)
 [![Dependency status](https://img.shields.io/david/vweevers/packument-package.svg?style=flat-square)](https://david-dm.org/vweevers/packument-package)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/packument-package.svg)](https://greenkeeper.io/)
 
 ## example
 
