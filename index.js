@@ -26,9 +26,11 @@ function getPackage (packument, name, opts, callback) {
   packument(name, opts, function (err, packument, headers) {
     if (err) return callback(err)
 
+    let pkg
+
     try {
       if (packument['dist-tags'][version]) {
-        var pkg = packument.versions[packument['dist-tags'][version]]
+        pkg = packument.versions[packument['dist-tags'][version]]
       } else if (packument.versions[version]) {
         pkg = packument.versions[version]
       } else {
